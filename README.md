@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 #### Data Scientist Competitive programming(Zindi & Kaggle)
-![Data Scientist Competitive programming(Zindi & Kaggle)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!--![Data Scientist Competitive programming(Zindi & Kaggle)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 Passionné par les mathématiques et l'innovation, je me spécialise en data science.
 
