@@ -5,13 +5,13 @@
 
 <!--![Data Scientist Competitive programming(Zindi & Kaggle)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
-📐Passionné par les mathématiques et l'innovation, je me spécialise en data science.
+📐Passionné par les mathématiques et l'innovation, je me spécialise en Data Science.
 
 📊Je transforme des données brutes en solutions concrètes grâce a R , SQL & Python.
 
 📈Curieux de nature , je cultive une veille technologique pour intégrer les avancées du secteur. 
 
-📚Les métiers qui m'intéressent sont la finance , la santé & la biologie.
+📚Les métiers qui m'intéressent sont la finance , la santé, la biologie & l'education.
 
 📦Discutons de nouveaux projets ou de nouvelles opportunités 
 
