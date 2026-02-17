@@ -11,7 +11,7 @@
 
 📈Curieux de nature , je cultive une veille technologique pour intégrer les avancées du secteur. 
 
-📚Les métiers qui m'intéressent sont la finance , la santé, la biologie & l'education.
+📚Les domaine qui m'intéressent sont la finance , la santé, la biologie & l'education.
 
 📦Discutons de nouveaux projets ou de nouvelles opportunités 
 
