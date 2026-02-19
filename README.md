@@ -5,6 +5,7 @@
 
 <!--![Data Scientist Competitive programming(Zindi & Kaggle)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
+## 👩‍💻About
 📐Passionné par les mathématiques et l'innovation, je me spécialise en **Data Science.**
 
 📊Je transforme des données brutes en solutions concrètes grâce a **R , SQL & Python**.
@@ -15,7 +16,8 @@
 
 📦Discutons de nouveaux projets ou de nouvelles opportunités 
 
-## Skills
+
+## 🖥️Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
