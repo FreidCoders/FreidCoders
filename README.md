@@ -5,7 +5,7 @@
 
 <!--![Data Scientist Competitive programming(Zindi & Kaggle)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
-![Alt text for the image](https://github.com/FreidCoders/FreidCoders/blob/main/Freidcoders.png)
+![Alt text for the image](https://github.com/FreidCoders/FreidCoders/blob/main/img.png)
 ## 👩‍💻About
 📐Passionné par les mathématiques et l'innovation, je me spécialise en **Data Science.**
 
